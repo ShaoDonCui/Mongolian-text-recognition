@@ -6,3 +6,5 @@ We use rotation, horizontal wave, distortion, and perspective methods to distort
 Mongolian-Regular3W.rar is the original data.
 Mongolian-Irregular0.65W.rar is the data that each vocabulary is enhanced once.
 Mongolian-Irregular6.5W.rar is the enhanced data of Mongolian-Regular3W.rar.
+
+The data format is label.jpg, the label.txt file contains the path and label of each image.
